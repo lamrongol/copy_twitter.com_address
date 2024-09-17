@@ -4,3 +4,4 @@ git_archive.bat export-ignore
 screenshots/ export-ignore
 LICENSE export-ignore
 README.md export-ignore
+images/icon.psxprj export-ignore
